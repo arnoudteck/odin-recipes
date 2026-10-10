@@ -1,9 +1,19 @@
 body {
     background-color: lightyellow;
-    font-family: papyrus, fantasy;
+    font-family: helvetica, sans-serif;
     color: darkgreen;
 }
 
+h1 {
+    font-family: papyrus, fantasy;
+}
+
 .inspiration {
+    font-family: copperplate, fantasy;
     color: darkblue;
+}
+
+a {
+    color: darkblue;
+    font-weight: 900;
 }
