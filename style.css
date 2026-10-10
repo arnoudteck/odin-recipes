@@ -4,12 +4,19 @@ body {
     color: darkgreen;
 }
 
+ul {
+    width: 300px;
+    margin: auto;
+}
+
 h1 {
     font-family: papyrus, fantasy;
+    text-align: left;
 }
 
 .inspiration {
     font-family: copperplate, fantasy;
+    text-align: right;
     color: darkblue;
 }
 
